@@ -7,9 +7,9 @@ Welcome to the E-commerce Insights project! This repository contains tools and s
 ## Table of Contents
 
 
-- [Data Preparation](#data-preparation)
-- [Cohort Analysis](#cohort-analysis)
-- [SQL Queries](#sql-queries)
+- #data-preparation
+- #cohort-analysis
+- #sql-queries
 
 
 Data Preparation
@@ -17,8 +17,10 @@ In this section, we provide scripts and instructions for cleaning, preprocessing
 
 Data Cleaning: Python script for data cleaning.
 Data Exploration: Jupyter Notebook for data exploration.
+
 Cohort Analysis
 Cohort analysis helps you understand user behavior over time.
+
 SQL Queries
 For users who prefer using SQL for data analysis, this project has a collection of SQL queries that can be run on  e-commerce database. These queries provide insights into top brands, customer behaviour.
 
